@@ -1,2 +1,2 @@
-# CPSC298
+# CPSC-COURSES
 Colloquium 298 C++
